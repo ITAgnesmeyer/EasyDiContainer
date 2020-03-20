@@ -23,6 +23,7 @@ var server = container.Create<IServer>();
 server.Log("hallo Welt");
 ```
 
-There are some drawbacks. You can only have one Implementation of the an Interface...
+Of course there are some disadvantages. For example, an interface can only be implemented once.
+Basically, however, this clarifies the principle.
 
 Dipl.-Ing.(FH) Guido Agnesmeyer. 2020
