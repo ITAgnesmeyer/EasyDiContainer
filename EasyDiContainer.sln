@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29827.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDiContainer", "EasyDiContainer\EasyDiContainer.csproj", "{36704613-32BB-495F-8E3F-0FFAFA0EDC9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDiContainerTest", "EasyDiContainerTest\EasyDiContainerTest.csproj", "{AC372ECD-680C-45F9-AD99-9670B460F4DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36704613-32BB-495F-8E3F-0FFAFA0EDC9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36704613-32BB-495F-8E3F-0FFAFA0EDC9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36704613-32BB-495F-8E3F-0FFAFA0EDC9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36704613-32BB-495F-8E3F-0FFAFA0EDC9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC372ECD-680C-45F9-AD99-9670B460F4DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC372ECD-680C-45F9-AD99-9670B460F4DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC372ECD-680C-45F9-AD99-9670B460F4DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC372ECD-680C-45F9-AD99-9670B460F4DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A704397-7A5D-4873-8648-A465CBB08172}
+	EndGlobalSection
+EndGlobal
