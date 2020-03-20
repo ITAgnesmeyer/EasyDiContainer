@@ -25,4 +25,4 @@ server.Log("hallo Welt");
 
 There are some drawbacks. You can only have one Implementation of the an Interface...
 
-Dipl.-Ing.(FH) Guido Agnesmeyer.
+Dipl.-Ing.(FH) Guido Agnesmeyer. 2020
